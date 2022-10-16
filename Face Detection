@@ -1,4 +1,4 @@
-"Facial Detection"
+"Facial Detection of humans"
 import os
 import cv2
 import imageio
