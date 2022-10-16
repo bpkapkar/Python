@@ -15,6 +15,6 @@ for (path , folder, files) in os.walk(mydir):
                 shutil.copy(path_file,destination)
             else:
                 continue
-print("Task Completed")
+print("Task Completed succesfully")
 
 
